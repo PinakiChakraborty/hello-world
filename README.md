@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi everyone!
+
+my name is pinaki chakraborty.
